@@ -1,4 +1,4 @@
-# README Breve
+
 
 Este proyecto en C# implementa un **sistema de registro de equipos y jugadores** para un torneo de fútbol. Se utilizan:
 
